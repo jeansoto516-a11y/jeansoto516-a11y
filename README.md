@@ -130,9 +130,8 @@ A Python backend developed for automated financial market analysis.
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeansoto516-a11y&show_icons=true&theme=github_dark&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansoto516-a11y&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeansoto516-a11y&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansoto516-a11y&layout=compact&theme=github_dark"/>
 
 </p>
 

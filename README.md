@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jean Soto 👋</h1>
 
 <h3 align="center">
-Backend Developer • Software Engineering Student • Technology Enthusiast
+Fullstack Developer • Software Engineering Student • Technology Enthusiast
 </h3>
 
 <p align="center">
@@ -130,8 +130,9 @@ A Python backend developed for automated financial market analysis.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeansoto516-a11y&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansoto516-a11y&layout=compact&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeansoto516-a11y&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansoto516-a11y&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 

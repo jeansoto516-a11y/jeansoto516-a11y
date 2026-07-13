@@ -1,33 +1,39 @@
-<h1 align="center">Hi, I'm Jean Soto 👋</h1>
+<h1 align="center">Hi 👋, I'm Jean Soto</h1>
 
 <h3 align="center">
-Fullstack Developer • Software Engineering Student • Technology Enthusiast
+Full Stack Developer • Software Engineering Student • Building Scalable Solutions
 </h3>
 
 <p align="center">
-Building SaaS solutions, REST APIs, and Artificial Intelligence applications to solve real-world problems.
+I design and develop modern web applications, SaaS platforms, REST APIs, and AI-powered solutions with a focus on performance, scalability, and clean architecture.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 🎓 Software Engineering Student
 
-💼 Backend Developer passionate about software architecture, APIs, and scalable systems.
+💻 Full Stack Developer passionate about software engineering, scalable architectures, and solving real-world problems through technology.
 
-🚀 Currently developing SaaS platforms, management systems, Artificial Intelligence applications, and process automation solutions.
+🌱 Constantly improving my knowledge in Software Architecture, Artificial Intelligence, Cloud Computing, and Modern Web Development.
 
-💡 Always striving to learn new technologies and apply best practices in software development, clean architecture, and high-quality code.
+🚀 Currently developing enterprise applications, SaaS platforms, management systems, automation tools, and AI-driven solutions.
 
 ---
 
-## 🚀 Technologies
+## 🛠 Tech Stack
 
 ### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,java,python,javascript,r" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
 ### Backend
@@ -42,109 +48,82 @@ Building SaaS solutions, REST APIs, and Artificial Intelligence applications to 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
-### Tools
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
 </p>
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
 ## 🏢 CondoHub
 
-A SaaS platform for condominium management developed in PHP.
+A complete SaaS platform for condominium management built with PHP following MVC architecture and REST API principles.
 
-### Features
+**Highlights**
 
 - Authentication
 - MVC Architecture
-- REST API
 - Financial Management
 - Resident Management
-- Dashboard
+- REST API
 - PostgreSQL
 
 ---
 
 ## 🏠 Domus CRM SaaS
 
-A complete CRM platform for real estate agencies.
+A CRM platform designed for real estate agencies, featuring lead management, sales pipelines, dashboards, and subscription management.
 
-### Features
+**Highlights**
 
 - Lead Management
 - Sales Pipeline
 - Dashboard
+- Express.js
 - PostgreSQL
-- Node.js
-- Express
 
 ---
 
 ## 🔐 ShadowTrap
 
-An SSH Honeypot developed in Python for attack monitoring.
+Advanced SSH Honeypot developed in Python for attack monitoring and credential capture.
 
-### Features
+**Highlights**
 
-- Credential Capture
-- Logging
-- Monitoring
 - FastAPI
 - Paramiko
-- Security
+- Attack Monitoring
+- Credential Logging
+- Security Research
 
 ---
 
 ## 🤖 ATENAS AI
 
-An intelligent platform for operational analysis powered by Artificial Intelligence.
+Artificial Intelligence platform for operational KPI analysis and business automation.
 
-### Features
+**Highlights**
 
-- Performance Indicators
-- KPIs
+- KPI Analysis
 - Dashboards
-- Automation
-- AI-Powered Analysis
+- AI Automation
+- Data Processing
 
 ---
 
 ## 📈 AI Financial Agent
 
-A Python backend developed for automated financial market analysis.
+Financial analysis platform capable of processing stocks and cryptocurrencies using Artificial Intelligence.
 
-### Features
+**Highlights**
 
 - FastAPI
-- Artificial Intelligence
-- Cryptocurrencies
-- Stocks
 - Financial APIs
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeansoto516-a11y&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansoto516-a11y&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=jeansoto516-a11y&theme=github-dark"/>
-
-</p>
+- AI Analysis
+- Market Automation
 
 ---
 
@@ -152,43 +131,46 @@ A Python backend developed for automated financial market analysis.
 
 - Software Architecture
 - Clean Architecture
+- Design Patterns
 - Docker
 - Microservices
-- Automated Testing
-- Software Engineering
+- CI/CD
+- Cloud Computing
 - Artificial Intelligence
-- Spring Boot
+- Software Engineering
 
 ---
 
 # 🎯 Goals
 
-✔ Build scalable solutions
+✔ Build scalable software
 
-✔ Grow as a Backend Developer
+✔ Become a Full Stack Engineer
 
-✔ Deepen my knowledge of Software Architecture
+✔ Master Software Architecture
 
-✔ Contribute to Open Source projects
+✔ Contribute to Open Source
 
-✔ Develop high-impact SaaS products
+✔ Build impactful SaaS products
+
+✔ Continuously improve as a Software Engineer
 
 ---
 
-# 📫 Contact
+# 📫 Connect with Me
 
 📧 **Email**
 
 **jeansoto516@gmail.com**
 
----
-
 💼 **LinkedIn**
 
-> https://www.linkedin.com/in/jean-soto-46483b421/
+https://www.linkedin.com/in/jean-soto-46483b421/
 
 ---
 
-⭐ **Thank you for visiting my profile!**
+<p align="center">
 
-Always open to learning, collaborating, and developing solutions that make a real impact.
+*"Code is more than syntax. It's about solving problems, creating value, and building the future."*
+
+</p>

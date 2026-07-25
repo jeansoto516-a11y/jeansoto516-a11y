@@ -1,45 +1,64 @@
 <h1 align="center">Hi 👋, I'm Jean Soto</h1>
 
 <h3 align="center">
-Full Stack Developer • Software Engineering Student • Building Scalable Solutions
+Software Engineer | Full Stack Developer
 </h3>
 
 <p align="center">
-I design and develop modern web applications, SaaS platforms, REST APIs, and AI-powered solutions with a focus on performance, scalability, and clean architecture.
+
+👨‍💻 <strong>Software Engineer | Full Stack Developer</strong>
+
+💻 <strong>Technologies</strong><br>
+
+🟨 JavaScript • 🔷 TypeScript • ⚛️ React • 🟢 Node.js • 🚂 Express.js • 🐍 Python • 🐘 PostgreSQL • ☁️ Azure • 🐳 Docker • 🌿 Git
+
+</p>
+
+<p align="center">
+Passionate about designing scalable software, modern SaaS platforms, REST APIs, cloud-native applications, and AI-powered solutions focused on clean architecture, performance, and user experience.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Software Engineering Student
+💻 Software Engineer passionate about building scalable applications, designing clean architectures, and solving real-world problems through technology.
 
-💻 Full Stack Developer passionate about software engineering, scalable architectures, and solving real-world problems through technology.
+🎓 Currently pursuing a Bachelor's Degree in Software Engineering.
 
-🌱 Constantly improving my knowledge in Software Architecture, Artificial Intelligence, Cloud Computing, and Modern Web Development.
+🚀 Developing enterprise applications, SaaS platforms, automation tools, AI-powered solutions, and modern web systems.
 
-🚀 Currently developing enterprise applications, SaaS platforms, management systems, automation tools, and AI-driven solutions.
+📚 Constantly improving my knowledge in:
+
+- Software Architecture
+- Clean Architecture
+- Design Patterns
+- Cloud Computing
+- Distributed Systems
+- Microservices
+- DevOps
+- Artificial Intelligence
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,java,python,javascript,r" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,php" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
 </p>
 
 ### Databases
@@ -48,13 +67,14 @@ I design and develop modern web applications, SaaS platforms, REST APIs, and AI-
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
-### Tools & Technologies
+### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,postman,vscode" />
 </p>
 
 ---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -71,74 +91,73 @@ I design and develop modern web applications, SaaS platforms, REST APIs, and AI-
 </p>
 
 ---
+
 # 🚀 Featured Projects
 
 ## 🏢 CondoHub
 
-A complete SaaS platform for condominium management built with PHP following MVC architecture and REST API principles.
+Enterprise SaaS platform for condominium management built with MVC architecture, focused on administration, financial management, resident management, and REST APIs.
 
-**Highlights**
+### Technologies
 
-- Authentication
-- MVC Architecture
-- Financial Management
-- Resident Management
-- REST API
+- PHP
 - PostgreSQL
+- MVC Architecture
+- REST API
 
 ---
 
-## 🏠 Domus CRM SaaS
+## 🏠 Domus CRM
 
-A CRM platform designed for real estate agencies, featuring lead management, sales pipelines, dashboards, and subscription management.
+Modern SaaS CRM platform designed for real estate agencies, providing lead management, sales pipeline, dashboards, broker management, authentication, and subscription-ready architecture.
 
-**Highlights**
+### Technologies
 
-- Lead Management
-- Sales Pipeline
-- Dashboard
+- React
+- Node.js
 - Express.js
 - PostgreSQL
+- JWT Authentication
+- REST API
 
 ---
 
 ## 🔐 ShadowTrap
 
-Advanced SSH Honeypot developed in Python for attack monitoring and credential capture.
+SSH Honeypot developed for cybersecurity research, capable of monitoring attacks, capturing credentials, logging malicious activity, and supporting security analysis.
 
-**Highlights**
+### Technologies
 
+- Python
 - FastAPI
 - Paramiko
-- Attack Monitoring
-- Credential Logging
-- Security Research
+- PostgreSQL
 
 ---
 
 ## 🤖 ATENAS AI
 
-Artificial Intelligence platform for operational KPI analysis and business automation.
+Artificial Intelligence platform focused on operational KPI analysis, business automation, dashboards, and intelligent decision support.
 
-**Highlights**
+### Technologies
 
-- KPI Analysis
-- Dashboards
-- AI Automation
-- Data Processing
+- Python
+- FastAPI
+- PostgreSQL
+- Artificial Intelligence
 
 ---
 
 ## 📈 AI Financial Agent
 
-Financial analysis platform capable of processing stocks and cryptocurrencies using Artificial Intelligence.
+Financial analysis platform capable of monitoring stocks and cryptocurrencies using AI techniques and real-time financial data.
 
-**Highlights**
+### Technologies
 
+- Python
 - FastAPI
 - Financial APIs
-- AI Analysis
-- Market Automation
+- Artificial Intelligence
 
 ---
 
@@ -147,28 +166,30 @@ Financial analysis platform capable of processing stocks and cryptocurrencies us
 - Software Architecture
 - Clean Architecture
 - Design Patterns
-- Docker
+- Domain-Driven Design (DDD)
+- SOLID Principles
 - Microservices
+- Docker
+- Kubernetes
 - CI/CD
-- Cloud Computing
+- Azure Cloud
 - Artificial Intelligence
-- Software Engineering
 
 ---
 
-# 🎯 Goals
+# 🎯 Professional Goals
 
-✔ Build scalable software
+✔ Build scalable software solutions
 
-✔ Become a Full Stack Engineer
+✔ Design cloud-native applications
 
 ✔ Master Software Architecture
 
+✔ Develop high-quality SaaS products
+
 ✔ Contribute to Open Source
 
-✔ Build impactful SaaS products
-
-✔ Continuously improve as a Software Engineer
+✔ Continuously evolve as a Software Engineer
 
 ---
 
@@ -180,12 +201,14 @@ Financial analysis platform capable of processing stocks and cryptocurrencies us
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/jean-soto-46483b421/
+**https://www.linkedin.com/in/jean-soto-46483b421/**
 
 ---
 
 <p align="center">
 
-*"Code is more than syntax. It's about solving problems, creating value, and building the future."*
+### 💬 Quote
+
+<i>"Building software that solves real problems through clean architecture, scalability, and continuous learning."</i>
 
 </p>

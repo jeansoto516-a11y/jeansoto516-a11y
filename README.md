@@ -1,8 +1,7 @@
 <div align="center">
 
-# Jean Soto
-
-### Software Engineer | Full Stack Developer
+# 👋 Jean Soto
+### 💻 Software Engineer | Full Stack Developer
 
 <p>
   <a href="mailto:jeansoto516@gmail.com">
@@ -17,43 +16,43 @@
 
 ---
 
-## About
+## 🧑‍💻 About Me
 
-Software Engineer focused on building scalable applications, clean architectures, and solving real-world problems through technology.
+🚀 Software Engineer focused on building scalable applications, clean architectures, and solving real-world problems through technology.
 
-Currently pursuing a Bachelor's Degree in Software Engineering, with hands-on experience developing enterprise applications, SaaS platforms, automation tools, and AI-powered solutions.
+🎓 Currently pursuing a Bachelor's Degree in Software Engineering, with hands-on experience developing enterprise applications, SaaS platforms, automation tools, and AI-powered solutions.
 
-**Areas of continuous learning:**
+**📚 Areas of continuous learning:**
 
-Software Architecture · Clean Architecture · Design Patterns · Domain-Driven Design · Cloud Computing · Distributed Systems · Microservices · DevOps · Artificial Intelligence
+`Software Architecture` · `Clean Architecture` · `Design Patterns` · `Domain-Driven Design` · `Cloud Computing` · `Distributed Systems` · `Microservices` · `DevOps` · `Artificial Intelligence`
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+**💬 Languages**
 <br>
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,php" />
 
-**Frontend**
+**🎨 Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 
-**Backend**
+**⚙️ Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,nestjs" />
 
-**Databases**
+**🗄️ Databases**
 <br>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
 
-**Cloud & Tools**
+**☁️ Cloud, DevOps & Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,git,github,githubactions,linux,postman,vscode" />
 
 ---
 
-## GitHub Overview
+## 📊 GitHub Overview
 
 <div align="center">
 
@@ -62,22 +61,25 @@ Software Architecture · Clean Architecture · Design Patterns · Domain-Driven 
 
 <img src="https://streak-stats.demolab.com?user=jeansoto516-a11y&theme=default&hide_border=true" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeansoto516-a11y&theme=github-compact&hide_border=true" width="100%" />
+
 </div>
 
 ---
 
-## Professional Goals
+## 🎯 Goals
 
-- Build scalable, cloud-native software solutions
-- Master Software Architecture and Design Patterns
-- Deliver high-quality SaaS products
-- Contribute to Open Source projects
-- Continuously evolve as a Software Engineer
+- 🏗️ Build scalable, well-architected software solutions
+- 📐 Master Software Architecture and Design Patterns
+- 🧠 Deepen knowledge of Data Structures and Algorithms
+- 🌍 Contribute to Open Source projects
+- 🤝 Write cleaner, more maintainable code every day
+- 📈 Keep growing and learning as a Software Engineer
 
 ---
 
 <div align="center">
 
-<i>"Building software that solves real problems through clean architecture, scalability, and continuous learning."</i>
+💡 *"Building software that solves real problems through clean architecture, scalability, and continuous learning."*
 
 </div>

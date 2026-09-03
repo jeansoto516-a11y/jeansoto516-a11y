@@ -20,7 +20,7 @@
 
 🚀 Software Engineer focused on building scalable applications, clean architectures, and solving real-world problems through technology.
 
-🎓 Currently pursuing a Bachelor's Degree in Software Engineering, with hands-on experience developing enterprise applications, SaaS platforms, automation tools, and AI-powered solutions.
+🎓 Currently pursuing a Bachelor's Degree in Software Engineering, with hands-on experience developing enterprise applications, SaaS platforms, automation tools, and AI-powered solutions — including leading technical decisions and full-stack development on multi-tenant B2B SaaS products.
 
 **📚 Areas of continuous learning:**
 
@@ -40,7 +40,7 @@
 
 **⚙️ Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,nestjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,nestjs,laravel" />
 
 **🗄️ Databases**
 <br>
@@ -58,9 +58,7 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jeansoto516-a11y&show_icons=true&theme=default&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeansoto516-a11y&layout=compact&theme=default&hide_border=true" />
-
 <img src="https://streak-stats.demolab.com?user=jeansoto516-a11y&theme=default&hide_border=true" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeansoto516-a11y&theme=github-compact&hide_border=true" width="100%" />
 
 </div>
